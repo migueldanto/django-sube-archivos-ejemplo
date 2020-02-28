@@ -22,4 +22,4 @@ instalar requerimientos
 
 `django-admin startproject SubeArchivos $(pwd)`
 
-
+`python manage.py startapp recibecsv`
