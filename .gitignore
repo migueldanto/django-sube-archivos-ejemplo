@@ -1,0 +1,3 @@
+/.vscode
+/server_env
+*.sqlite3
